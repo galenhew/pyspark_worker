@@ -18,14 +18,14 @@ git clone #repo-name
 
 #### 2. Configure your Environment
 - Add environment keys: value pairs
-- key names
-- username
-- password
-- hadoop1
-- hadoop2
-- for cdsw, you can add these in the project's advanced settings as shown in the images below
-- ![env keys] (assets/env_keys.png) 
-- install requirements in terminal or jupyter
+  - key names
+    - username
+    - password
+    - hadoop1
+    - hadoop2
+- for your workspace, you can add these in the project's advanced settings as shown in the images below
+  - ![env keys] (assets/env_keys.png) 
+  - install requirements in terminal or jupyter
 ```
 %cd pyspark_worker
 ```
