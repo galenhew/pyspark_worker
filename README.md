@@ -13,7 +13,7 @@
 go to jupyter terminal ![jupyter terminal] (assets/jup_terminal.png)
 enter in terminal
 ```
-git clone #repo-name
+git clone https://github.com/galenhew/pyspark_worker.git
 ```
 
 #### 2. Configure your Environment
