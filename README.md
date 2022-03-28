@@ -14,7 +14,7 @@ go to jupyter terminal ![jupyter terminal] (assets/jup_terminal.png)
 enter in terminal
 ```
 git clone #repo-name
-``’
+```
 
 #### 2. Configure your Environment
 - Add environment keys: value pairs
