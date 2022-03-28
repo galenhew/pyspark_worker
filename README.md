@@ -26,25 +26,25 @@ git clone #repo-name
 - for cdsw, you can add these in the project's advanced settings as shown in the images below
 - ![env keys] (assets/env_keys.png) 
 - install requirements in terminal or jupyter
-‘’’
+```
 %cd pyspark_worker
-‘’’
-‘’’
+```
+```
 ! pip3 install -r requirements.txt
-‘’’
+```
 
 #### 3. Import into your notebooks python
-‘’’
+```
 import pyspark_worker.core.general as G 
 from pyspark_worker.core.main_import import *
 
 spark = Sparky()
-‘’’
+```
 
-‘’’
+```
 query = f"""( # enter your sql)""" 
 df = spark.read_table_presto (query)
-’’’
+```
 ## B. Resources for data conversion
 ### check/ find data sources
 
