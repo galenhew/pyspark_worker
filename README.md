@@ -2,10 +2,10 @@
 
 ##  Directory
 
-[A. Setup] (#markdown-header-a-setup)
-[B. Resources for data conversion] (#markdown-header-b-resources-for-data-conversion)
-[C. Documentation] (#markdown-header-c-documentation)
-[D. Areas for improvement]( #markdown-header-d-areas-for-improvement)
+- [A. Setup] (#markdown-header-a-setup)
+- [B. Resources for data conversion] (#markdown-header-b-resources-for-data-conversion)
+- [C. Documentation] (#markdown-header-c-documentation)
+- [D. Areas for improvement]( #markdown-header-d-areas-for-improvement)
 
 ## A. Setup
 
